@@ -28,3 +28,8 @@ function rollDice() {
     player2(randomNumber2);
     winner(randomNumber1, randomNumber2);
 }
+
+// gihtub button
+    document.getElementById("github").addEventListener("click", function() {
+        window.open("https://github.com/amitsharma4567/diceduel", "_blank");
+    });
