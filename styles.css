@@ -74,3 +74,13 @@ footer {
   font-size: 52px;
   margin: 0px;
 }
+
+#github{
+  display: block;
+  margin-left: auto;
+  padding: 5px ;
+  background-color:#3da885;
+  border-radius: 10px;
+  text-shadow: 3px 3px 10px #000;
+  border: 2px solid #404B69; 
+}
